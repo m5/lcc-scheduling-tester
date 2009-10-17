@@ -1,0 +1,3 @@
+include schedule_box/config/deployment.ini_tmpl
+recursive-include schedule_box/public *
+recursive-include schedule_box/templates *
